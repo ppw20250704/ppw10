@@ -15,4 +15,4 @@
 
 如果你重视安全和画质，其实可以考虑支持一些付费平台，像是 DMM（FANZA）或 MGStage 等，它们提供更高画质和更稳定的观看体验。当然，如果只是偶尔想看几部经典片段，这些精选的免费平台也足够使用。选择正规、有社区评价的资源，才能在享受内容的同时保护自己。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link]( https://github.com/ppw20250704/ppw10 ）</span>
